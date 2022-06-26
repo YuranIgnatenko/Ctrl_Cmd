@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "CtrlCmd"
+	. "ctrl_cmd"
 	"time"
 )
 
